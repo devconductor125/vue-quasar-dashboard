@@ -1,0 +1,37 @@
+{
+  "name": "crm_admin",
+  "version": "0.0.1",
+  "description": "A free and beautiful Quasar template for CRM.",
+  "productName": "CRM Admin",
+  "cordovaId": "org.cordova.quasar.app",
+  "capacitorId": "",
+  "author": "Mayank Patel",
+  "private": true,
+  "scripts": {
+    "test": "echo \"No test specified\" && exit 0"
+  },
+  "dependencies": {
+    "@quasar/extras": "^1.0.0",
+    "apexcharts": "^3.24.0",
+    "echarts": "^4.6.0",
+    "node-sass": "^4.14.1",
+    "quasar": "^1.0.0",
+    "serialize-javascript": "^5.0.1",
+    "vue-apexcharts": "^1.5.2",
+    "vue-echarts-v3": "^2.0.1",
+    "vuedraggable": "^2.23.2",
+    "yargs-parser": "^20.2.0"
+  },
+  "devDependencies": {
+    "@quasar/app": "^1.0.0",
+    "@quasar/quasar-app-extension-qcalendar": "^1.5.3"
+  },
+  "engines": {
+    "node": ">= 10.18.1",
+    "npm": ">= 6.13.4",
+    "yarn": ">= 1.21.1"
+  },
+  "browserslist": [
+    "last 1 version, not dead, ie >= 11"
+  ]
+}
